@@ -269,152 +269,152 @@ const damageTypes = {
 
 const itemTypes = {
     '32': {
-        'name': 'Consumables',
+        'name': '消耗品——Consumables',
         'icon': 'img/icons/item-consumable.png'
     },
     '33': {
-        'name': 'Treasure',
+        'name': '宝藏——Treasure',
         'icon': 'img/icons/item-treasure.png'
     },
     '34': {
-        'name': 'Arcana',
+        'name': '秘籍——Arcana',
         'icon': 'img/icons/item-arcana.png'
     },
     '35': {
-        'name': 'Classmarks',
+        'name': '职业类型——Classmarks',
         'icon': 'img/icons/item-classmark.png'
     },
     '36': {
-        'name': 'Ingredients',
+        'name': '材料——Ingredients',
         'icon': 'img/icons/item-material.png'
     },
     '37': {
-        'name': 'Recipes',
+        'name': '配方——Recipes',
         'icon': 'img/icons/item-recipe.png'
     },
     '161': {
-        'name': 'Fists',
+        'name': '拳套——Fists',
         'icon1': 'img/icons/equip-claw.png',
         'icon2': 'img/icons/equip-claw.png'
     },
     '162': {
-        'name': 'Daggers',
+        'name': '匕首——Daggers',
         'icon1': 'img/icons/equip-dagger.png',
         'icon2': 'img/icons/equip-dagger.png'
     },
     '163': {
-        'name': '1H Swords',
+        'name': '单手剑——1H Swords',
         'icon1': 'img/icons/equip-sword1h.png',
         'icon2': 'img/icons/equip-sword1hb.png'
     },
     '164': {
-        'name': '2H Swords',
+        'name': '双手剑——2H Swords',
         'icon1': 'img/icons/equip-sword2h.png',
         'icon2': 'img/icons/equip-sword2h.png'
     },
     '165': {
-        'name': 'Axes',
+        'name': '斧头——Axes',
         'icon1': 'img/icons/equip-axe1h.png',
         'icon2': 'img/icons/equip-axe2h.png'
     },
     '167': {
-        'name': 'Spears',
+        'name': '长矛——Spears',
         'icon1': 'img/icons/equip-spear1h.png',
         'icon2': 'img/icons/equip-spear2h.png'
     },
     '168': {
-        'name': 'Hammers',
+        'name': '锤——Hammers',
         'icon1': 'img/icons/equip-hammer1h.png',
         'icon2': 'img/icons/equip-hammer2h.png'
     },
     '170': {
-        'name': '1H Katana',
+        'name': '单手武士刀——1H Katana',
         'icon1': 'img/icons/equip-katana1h.png',
         'icon2': 'img/icons/equip-katana1h.png'
     },
     '171': {
-        'name': '2H Katana',
+        'name': '双手武士刀——2H Katana',
         'icon1': 'img/icons/equip-katana2h.png',
         'icon2': 'img/icons/equip-katana2h.png'
     },
     '172': {
-        'name': 'Staves',
+        'name': '杖——Staves',
         'icon1': 'img/icons/equip-cudgel1h.png',
         'icon2': 'img/icons/equip-cudgel2h.png'
     },
     '174': {
-        'name': 'Whips',
+        'name': '鞭——Whips',
         'icon1': 'img/icons/equip-whip.png',
         'icon2': 'img/icons/equip-whip.png'
     },
     '175': {
-        'name': 'Spellbooks',
+        'name': '魔法书——Spellbooks',
         'icon1': 'img/icons/equip-spellbook.png',
         'icon2': 'img/icons/equip-spellbook.png'
     },
     '176': {
-        'name': 'Instruments',
+        'name': '乐器——Instruments',
         'icon1': 'img/icons/equip-instrument.png',
         'icon2': 'img/icons/equip-instrument.png'
     },
     '177': {
-        'name': 'Sidearms',
+        'name': '吹箭——Sidearms',
         'icon1': 'img/icons/equip-sidearm.png',
         'icon2': 'img/icons/equip-throwing.png'
     },
     '178': {
-        'name': 'Bows',
+        'name': '弓——Bows',
         'icon1': 'img/icons/equip-bow1h.png',
         'icon2': 'img/icons/equip-bow2h.png'
     },
     '179': {
-        'name': 'Crossbows',
+        'name': '弩——Crossbows',
         'icon1': 'img/icons/equip-crossbow1h.png',
         'icon2': 'img/icons/equip-crossbow2h.png'
     },
     '180': {
-        'name': 'Fusils',
+        'name': '枪——Fusils',
         'icon1': 'img/icons/equip-fusil1h.png',
         'icon2': 'img/icons/equip-fusil2h.png'
     },
     '245': {
-        'name': 'Lobber',
+        'name': '投掷——Lobber',
         'icon1': 'img/icons/equip-lobber.png',
         'icon2': 'img/icons/equip-lobber.png'
     },
     '261': {
-        'name': 'Innate Melee',
+        'name': '空手近战——Innate Melee',
         'icon1': 'img/icons/equip-unarmed.png',
         'icon2': 'img/icons/equip-unarmed.png'
     },
     '277': {
-        'name': 'Innate Ranged',
+        'name': '空手远程——Innate Ranged',
         'icon1': 'img/icons/equip-throw.png',
         'icon2': 'img/icons/equip-throw.png'
     },
     '290': {
-        'name': 'Innate Melee',
+        'name': '空手近战——Innate Melee',
         'icon1': 'img/icons/equip-unarmed.png',
         'icon2': 'img/icons/equip-unarmed.png'
     },
     '291': {
-        'name': 'Innate Ranged',
+        'name': '空手远程——Innate Ranged',
         'icon1': 'img/icons/equip-throw.png',
         'icon2': 'img/icons/equip-throw.png'
     },
     '345': {
-        'name': 'Innate Lobber',
+        'name': '空手投掷——Innate Lobber',
         'icon1': 'img/icons/equip-lobber.png',
         'icon2': 'img/icons/equip-lobber.png'
     },
     '182': {
-        'name': 'Shields',
+        'name': '盾牌——Shields',
         'iconc': 'img/icons/equip-shieldcloth.png',
         'iconl': 'img/icons/equip-shieldlight.png',
         'iconh': 'img/icons/equip-shieldheavy.png'
     },
     '23': {
-        'name': 'Helms',
+        'name': '头盔——Helms',
         'iconc': 'img/icons/equip-helmcloth.png',
         'iconl': 'img/icons/equip-helmlight.png',
         'iconh': 'img/icons/equip-helmheavy.png',
@@ -422,7 +422,7 @@ const itemTypes = {
         'icona': 'img/icons/equip-helmsniper.png'
     },
     '24': {
-        'name': 'Body Armor',
+        'name': '盔甲——Body Armor',
         'iconc': 'img/icons/equip-armorcloth.png',
         'iconl': 'img/icons/equip-armorlight.png',
         'iconh': 'img/icons/equip-armorheavy.png',
@@ -430,7 +430,7 @@ const itemTypes = {
         'icona': 'img/icons/equip-armorlight.png'
     },
     '25': {
-        'name': 'Armguards',
+        'name': '臂甲——Armguards',
         'iconc': 'img/icons/equip-armcloth.png',
         'iconl': 'img/icons/equip-armlight.png',
         'iconh': 'img/icons/equip-armheavy.png',
@@ -439,7 +439,7 @@ const itemTypes = {
         'icond': 'img/icons/equip-armhealer.png'
     },
     '27': {
-        'name': 'Legguards',
+        'name': '腿甲——Legguards',
         'iconc': 'img/icons/equip-legcloth.png',
         'iconl': 'img/icons/equip-leglight.png',
         'iconh': 'img/icons/equip-legheavy.png',
@@ -448,7 +448,7 @@ const itemTypes = {
         'icond': 'img/icons/equip-leghealer.png'
     },
     '29': {
-        'name': 'Jewelry',
+        'name': '首饰——Jewelry',
         'icon': 'img/icons/equip-jewelry.png',
         'icona': 'img/icons/equip-jewelry.png'
     }
@@ -2119,7 +2119,7 @@ const npcClasses = {
 };
 
 const storyPoints = {
-    '1': 'at the start of Chapter 1',
+    '1': '在第一章的开头<br>at the start of Chapter 1',
     '2': 'at the middle of Chapter 1',
     '3': 'at the end of Chapter 1',
     '4': 'at the start of Chapter 2',
